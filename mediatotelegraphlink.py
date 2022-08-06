@@ -23,11 +23,11 @@ I am here to generate Telegraph links for your media files.
 Simply send a valid media file directly to this chat.
 Valid file types are 'jpeg', 'jpg', 'png', 'mp4' and 'gif'.
 
-my father's - @killxcoder & @tamilan
+my father's - @killxcoder & @tamilan444
 
 To generate links in **group chats**, add me to your supergroup and send the command <code>/tl</code> as a reply to a valid media file.
 
-🏠 | [Home](https://t.me/iamgrootbotztype)
+🏠 | [Home](https://t.me/iamgrootbotz)
             """
     await teletips.send_message(message.chat.id, text, disable_web_page_preview=True)
     
